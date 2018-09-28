@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">android-dynamic-delivery</string>
+    <string name="title_cast">Cast Feature</string>
+    <string name="title_feature_cast">Cast Feature</string>
+    <string name="title_feature_share">Share Feature</string>
+    <string name="title_feature_image">Image Feature</string>
 </resources>
