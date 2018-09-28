@@ -7,5 +7,14 @@
         dist:title="@string/title_feature_share">
         <dist:fusing dist:include="true"/>
     </dist:module>
+
+    <application>
+        <activity android:name=".ShareActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+            </intent-filter>
+        </activity>
+    </application>
+
 </manifest>
 
