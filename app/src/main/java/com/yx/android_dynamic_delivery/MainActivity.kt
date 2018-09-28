@@ -103,6 +103,7 @@ class MainActivity : AppCompatActivity() {
                 SplitInstallSessionStatus.UNKNOWN -> logTextStr = "$logTextStr\nstatus->UNKNOWN"
             }
 
+            logText.text = logTextStr
         }
     }
 
